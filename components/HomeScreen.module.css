@@ -1,0 +1,9 @@
+.imgContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.btn {
+  background-color: #c21858;
+  color: #fff;
+}
